@@ -1,4 +1,5 @@
 Part 1: Write your message here from GitHub
+this is my message to myself!
 
 Task 1: 
 // Under this line, describe what the command 'git status' do
