@@ -1,9 +1,0 @@
-Part 1: Write your message here from GitHub
-
-Task 1: 
-// Under this line, describe what the command 'git status' do
-the command 'git status' is a very helpful comman that tells you which branch you are on and the 'status' of that branch with respect to the master branch. 
-
-Task 2:
-// Under this line, describe the difference between Git and GitHub
-
